@@ -1,4 +1,7 @@
 # PHP Data interchange format writer (DIF)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/mehr-it/data-interchange-format.svg?style=flat-square)](https://packagist.org/packages/mehr-it/data-interchange-format)
+[![Build Status](https://travis-ci.org/mehr-it/data-interchange-format.svg?branch=master)](https://travis-ci.org/mehr-it/data-interchange-format)
+
 This package implements a simple [data interchange format (DIF)](https://en.wikipedia.org/wiki/Data_Interchange_Format) writer. 
 
 ## Usage
