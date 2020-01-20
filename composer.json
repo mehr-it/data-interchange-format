@@ -19,7 +19,7 @@
     }
   },
   "require": {
-    "php": ">=7.1.0",
+    "php": ">=7.2.0",
     "ext-mbstring": "*",
     "thecodingmachine/safe": "^0.1.16",
     "mehr-it/php-decimals": "^2.1"
